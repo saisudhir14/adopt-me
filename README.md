@@ -13,8 +13,7 @@ npm i -D eslint eslint-config--prettier
 
 The above command installs 2 things :
 - Installs ESLint (Code Linter)
-- 
-
+- Prettier config
 ---
 Difference between ESLint and prettier
 - Prettier is mainly concerned more on code formatting part , As long as prettier parses  prettier **does'nt care about what code actually does!, ex: does this variable exist?, <br>
